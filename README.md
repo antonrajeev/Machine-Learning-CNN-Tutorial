@@ -1,4 +1,4 @@
-# Machine-Learrning-CNN-Tutorisl
+# Machine-Learning-CNN-Tutorial
 # Exploring the Effects of Filter Size and Stride in CNNs
 
 This repository contains the tutorial *"Exploring the Effects of Filter Size and Stride in Convolutional Neural Networks"* and accompanying Python code. The tutorial covers:
