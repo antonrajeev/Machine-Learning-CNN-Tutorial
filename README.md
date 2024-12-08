@@ -11,7 +11,7 @@ This repository contains the tutorial *"Exploring the Effects of Filter Size and
 ## **Repository Contents**
 1. `tutorial.pdf`: The full tutorial in PDF format.
 2. `code/`: Python scripts and Jupyter notebooks for hands-on exploration.
-   - `convolution_demo.py`: Code to visualize the effects of filter size and stride.
+   - Machine_learning_tutorial_.ipynb: Code to visualize the effects of filter size and stride.
    - `interactive_notebook.ipynb`: An interactive notebook for experimentation.
    - `diagrams/`: Visual aids for the tutorial.
 3. `requirements.txt`: List of Python libraries required to run the code.
