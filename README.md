@@ -10,17 +10,8 @@ This repository contains the tutorial *"Exploring the Effects of Filter Size and
 
 ## **Repository Contents**
 1. `tutorial.pdf`: The full tutorial in PDF format.
-2. `code/`: Python scripts and Jupyter notebooks for hands-on exploration.
-   - Machine_learning_tutorial_.ipynb: Code to visualize the effects of filter size and stride.
-   - `interactive_notebook.ipynb`: An interactive notebook for experimentation.
-   - `diagrams/`: Visual aids for the tutorial.
-3. `requirements.txt`: List of Python libraries required to run the code.
+2. 'Machine_learning_tutorial_.ipynb': Code to visualize the effects of filter size and stride.
+3.'Machine learning tutorial 2(filter visualization).ipynb'  - : An interactive notebook for experimentation.
 
 ---
 
-## **Getting Started**
-
-### **Dependencies**
-Install the required libraries using:
-```bash
-pip install -r requirements.txt
