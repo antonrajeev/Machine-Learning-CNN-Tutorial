@@ -34,7 +34,7 @@ The MNIST dataset is automatically downloaded to the ./data directory when runni
 
 Environment
 A Python IDE (e.g., PyCharm, VS Code) or a notebook environment like Jupyter Notebook or Google Colab.
-For GPU usage, ensure the correct version of PyTorch with CUDA is installed. Use the PyTorch installation guide to select the appropriate version: PyTorch Installation
+For GPU usage, ensure the correct version of PyTorch with CUDA is installed. Use the PyTorch installation guide to select the appropriate version
 
 How to Run
 Clone the Repository*
