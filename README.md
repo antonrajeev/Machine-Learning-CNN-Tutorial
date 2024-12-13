@@ -8,10 +8,10 @@ This repository contains the tutorial *"Exploring the Effects of Filter Size and
 
 ---
 
-## **Repository Contents**
+Repository Contents
 1. 'Exploring the Effects of Filter Size and Stride in CNNs.pdf': The full tutorial in PDF format.
 2. "Machine_learning_tutorial_.ipynb': Code to visualize the effects of filter size and stride.
-3."Machine learning tutorial 2(filter visualization).ipynb": An interactive notebook for experimentation.
+3. "Machine learning tutorial 2(filter visualization).ipynb": An interactive notebook for experimentation.
 
 ---
 Requirements: 
