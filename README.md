@@ -6,7 +6,7 @@ This repository contains the tutorial *"Exploring the Effects of Filter Size and
 - Hands-on coding examples for convolution operations.
 - Real-world applications in medical imaging, autonomous vehicles, and satellite imagery.
 
----
+_ _ _
 
 Repository Contents
 1. 'Exploring the Effects of Filter Size and Stride in CNNs.pdf': The full tutorial in PDF format.
@@ -16,18 +16,18 @@ Repository Contents
 ---
 Requirements: 
 Python 3.7 or newer: The code uses libraries compatible with Python 3
-
+_ _ _
 
 You will need the following libraries:
-numpy>=1.20.0
-matplotlib>=3.4.0
-scipy>=1.6.0
-scikit-image>=0.18.0
-PyTorch
+-numpy>=1.20.0
+-matplotlib>=3.4.0
+-scipy>=1.6.0
+-scikit-image>=0.18.0
+-PyTorch
 
 Hardware Requirements
-CPU: The code will run on a CPU, but training will be slower.
-GPU (Optional): To accelerate training, use a GPU with CUDA support. Ensure PyTorch is installed with GPU capabilities.
+-CPU: The code will run on a CPU, but training will be slower.
+-GPU (Optional): To accelerate training, use a GPU with CUDA support. Ensure PyTorch is installed with GPU capabilities.
 
 Dataset
 The MNIST dataset is automatically downloaded to the ./data directory when running the code. Ensure you have enough disk space (approximately 15 MB).
